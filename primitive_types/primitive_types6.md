@@ -1,3 +1,5 @@
+To access elements in a tuple by index, use the . (dot) notation as seen below 
+
 ```rust
 #[test]
 fn indexing_tuple() {
