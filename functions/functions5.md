@@ -1,7 +1,10 @@
 ```rust
 fn main() {
-    call_me();
+    let answer = square(3);
+    println!("The square of 3 is {}", answer);
 }
 
-fn call_me() {}
+fn square(num: i32) -> i32 {
+    num * num
+}
 ```
