@@ -1,4 +1,15 @@
-## This is a brief documentation to my rustlings solution v5.3.0 FEB 2023
+<h1 align="center">
+  <div>Rustlings solution</div><br>
+  <img src="logo.png" alt="rust" width="200">
+</h1>
+
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shadrach-oloyede/)](https://www.linkedin.com/in/shadrach-oloyede/) [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shadrach_temi/)](https://www.instagram.com/shadrach_temi/) [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/oloyedeshadrach/)](https://twitter.com/oloyedeshadrach/)
+
+</div>
+
+> This is a brief documentation to my rustlings solution as of version v5.3.0. Feb 2023
 
 | Exercise               | Book Chapter        |
 | ---------------------- | ------------------- |
